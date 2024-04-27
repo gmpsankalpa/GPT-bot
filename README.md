@@ -35,7 +35,7 @@ Before running the bot, ensure you have the following installed:
 
 2. Navigate to the project directory:
     ```bash
-    cd discord-openai-bot
+    cd GPT-bot
 
 3. Install dependencies:
     ```bash
